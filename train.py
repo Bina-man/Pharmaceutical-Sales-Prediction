@@ -28,7 +28,7 @@ import dvc.api
 path = 'data/store.csv'
 # repo ='https://github.com/heavye/abtest-mlops'
 repo ='https://github.com/Bina-man/pharmaceutical-sale-prediction'
-version = 'v1'
+version = 'version1'
 
 data_url = dvc.api.get_url(
     path = path,
