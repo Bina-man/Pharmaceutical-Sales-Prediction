@@ -78,6 +78,7 @@ The following should be included in the installation
 * Numpy
 * Tensorflow
 * Scikit-learn
+ 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
